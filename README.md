@@ -1,4 +1,4 @@
-Angular Phonegap Live currentPosition on Map
+angular-gps-map-tracker
 =======================================
 
 Angular service for showing live current position marker on Google Maps using Phonegap/Cordova
